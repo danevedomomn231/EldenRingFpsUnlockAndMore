@@ -6,6 +6,7 @@ Patches games memory while running, does not modify any game files. Works with e
 **[Get the latest release here](https://github.com/uberhalit/EldenRingFpsUnlockAndMore/releases)**
 
 ## Features
+Unlock
 * does not modify any game files, RAM patches only
 * works with legit, unmodified steam version as well as with unpacked, not-so-legit versions
 * unlock frame rate (remove FPS limit)
