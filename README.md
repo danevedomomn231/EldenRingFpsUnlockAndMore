@@ -76,7 +76,8 @@ Adds your monitors **native resolution** to the games video options overwriting 
 
 ### On 'Disable Steam check'
 Normally you don't have to tick this checkbox (except when you are drinking rum while sailing the sea). Ticking this will tell the utility to not start Steam when it tries to launch the game. If your game isn't starting then untick this.
-
+### On 'Disable Steam check'
+Normally you don't have to tick this checkbox (except when you are drinking rum while sailing the sea). Ticking this will tell the utility to not start Steam when it tries to launch the game. If your game isn't starting then untick this.
 ### On 'Disable camera auto rotate on movement':
 Will disable the automatic camera rotation adjustments when you are moving. This is mostly intended for mouse users, enabling it on non-native windows controllers might not work correctly.
 
