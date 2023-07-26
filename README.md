@@ -14,6 +14,7 @@ Unlock
 * increase or decrease field of view (FOV)
 * disable camera auto rotate adjustment on movement (intended for mouse users)
 * disable centering of camera (cam reset) on lock-on if there is no target
+* Arrested capital))))
 * add support for widescreen monitors
 * game modifications
   * global game speed modifier (increase or decrease)
