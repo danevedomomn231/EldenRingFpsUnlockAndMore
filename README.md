@@ -39,6 +39,12 @@ The game enforces VSYNC and forces 60 Hz in fullscreen even on 144 Hz monitors s
 4. [![Make sure your monitor is set to the highest Refresh rate possible](https://user-images.githubusercontent.com/19159295/155911492-f6410e73-bcc9-457a-b2da-57f7625c3b68.PNG)](#)
 5. Navigate to `3D Settings -> Manage 3D settings -> Program Settings -> Elden Ring`
 6. **Set `Preferred refresh rate` to `Highest available`**
+7. **Set `Vertical sync` to `Off`**1. Open Nvidia Control Panel
+2. Navigate to `Display -> Change resolution`
+3. **Make sure your monitor is set to the highest Refresh rate possible:**
+4. [![Make sure your monitor is set to the highest Refresh rate possible](https://user-images.githubusercontent.com/19159295/155911492-f6410e73-bcc9-457a-b2da-57f7625c3b68.PNG)](#)
+5. Navigate to `3D Settings -> Manage 3D settings -> Program Settings -> Elden Ring`
+6. **Set `Preferred refresh rate` to `Highest available`**
 7. **Set `Vertical sync` to `Off`**
 8. [![Preferred refresh rate to Highest available, VSYNC to Off](https://user-images.githubusercontent.com/19159295/155911494-a50af476-5367-42b1-90f1-106aaa28f368.PNG)](#)
 9. Hit apply and close Nvidia Control Panel
