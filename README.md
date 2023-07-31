@@ -7,6 +7,7 @@ Patches games memory while running, does not modify any game files. Works with e
 
 ## Features
 Unlock
+
 * does not modify any game files, RAM patches only
 * works with legit, unmodified steam version as well as with unpacked, not-so-legit versions
 * unlock frame rate (remove FPS limit)
@@ -14,11 +15,6 @@ Unlock
 * increase or decrease field of view (FOV)
 * disable camera auto rotate adjustment on movement (intended for mouse users)
 * disable centering of camera (cam reset) on lock-on if there is no target
-* Arrested capital))))
-* add support for widescreen monitors
-* game modifications
-  * global game speed modifier (increase or decrease)
-  * disable losing Runes on death
 
 ## Preview
 [![Elden Ring FPS Unlocker and more](https://user-images.githubusercontent.com/19159295/156041448-ba5e08df-bb5e-4ac7-a8f0-772d8f039f76.png)](#)
