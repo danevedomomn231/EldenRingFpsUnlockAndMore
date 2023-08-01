@@ -16,10 +16,7 @@ Unlock
 * disable camera auto rotate adjustment on movement (intended for mouse users)
 * disable centering of camera (cam reset) on lock-on if there is no target
 
-## Preview
-[![Elden Ring FPS Unlocker and more](https://user-images.githubusercontent.com/19159295/156041448-ba5e08df-bb5e-4ac7-a8f0-772d8f039f76.png)](#)
 
-## Usage
 **Make sure the game is running in offline mode and the AntiCheat (EAC) isn't running.**. 
 
 The graphic setup has to be done only once but as the patcher hot-patches the memory **you have to start the patcher every time you want to use any of its features**.
