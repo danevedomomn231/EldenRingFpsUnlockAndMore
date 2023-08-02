@@ -12,10 +12,6 @@ Unlock
 * works with legit, unmodified steam version as well as with unpacked, not-so-legit versions
 * unlock frame rate (remove FPS limit)
 * remove forced 60 Hertz (Hz) limit in fullscreen on now
-* increase or decrease field of view (FOV)
-* disable camera auto rotate adjustment on movement (intended for mouse users)
-* disable centering of camera (cam reset) on lock-on if there is no target
-
 
 **Make sure the game is running in offline mode and the AntiCheat (EAC) isn't running.**. 
 
