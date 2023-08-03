@@ -9,10 +9,6 @@ Patches games memory while running, does not modify any game files. Works with e
 Unlock
 
 * does not modify any game files, RAM patches only
-* works with legit, unmodified steam version as well as with unpacked, not-so-legit versions
-* unlock frame rate (remove FPS limit)
-* remove forced 60 Hertz (Hz) limit in fullscreen on now
-
 **Make sure the game is running in offline mode and the AntiCheat (EAC) isn't running.**. 
 
 The graphic setup has to be done only once but as the patcher hot-patches the memory **you have to start the patcher every time you want to use any of its features**.
