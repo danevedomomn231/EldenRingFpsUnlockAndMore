@@ -2,11 +2,7 @@
 A small utility to remove frame rate limit, change FOV (Field of View), add widescreen supprt, alter Game Speed and various game modifications for [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring) written in C#. More features soon!
 Patches games memory while running, does not modify any game files. Works with every game version (legit steam & oh-not-so-legit), should work with all future updates.
 
-## Downloadd
-**[Get the latest release here](https://gfgithub.com/uberhalit/EldenRingFpsUnlockAndMore/releases)**
 
-## Features
-Unlock
 
 * does not modify any game files, RAM patches only
 **Make sure the game is running in offline mode and the AntiCheat (EAC) isn't running.**. 
