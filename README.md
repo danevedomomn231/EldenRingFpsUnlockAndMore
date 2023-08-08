@@ -27,12 +27,6 @@ The game enforces VSYNC and forces 60 Hz in fullscreen even on 144 Hz monitors s
 10. Start `Elden Ring FPS Unlocker and more` and start the game through the first button
 11. Set your new refresh rate limit, tick the checkbox and click `Patch game`
 
-### Follow these steps on AMD:
-1. Right click on Desktop -> `Display settings`
-2. Scroll down and click `Advanced Display Settings -> Display Adapter Properties`
-3. **Switch to `Monitor` tab and make sure your monitor is set to the highest Refresh rate possible:**
-4. [![Make sure your monitor is set to the highest Refresh rate possible](https://camo.githubusercontent.com/8ba71a0b512eb68509f7e7506a92a78f3cd47537/68747470733a2f2f692e696d6775722e636f6d2f61774b4862774d2e706e67)](#)
-5. Open Radeon Settings
 6. Navigate to `Gaming -> Elden Ring` or add it manually if it's missing: `Add -> Browse -> Elden Ring`
 7. **Set `Wait for Vertical Refresh` to `Enhanced Sync`, `Fast Sync` or `Always Off`**:
 8. [![Wait for Vertical Refresh Enhanced Sync](https://camo.githubusercontent.com/7c00daebb59c7e46c455e30b6caa055c63185dcb/68747470733a2f2f692e696d6775722e636f6d2f456e77595146322e706e67)](#)
